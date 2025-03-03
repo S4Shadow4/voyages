@@ -73,5 +73,5 @@ enregistrées.
 - 
 
 ## 📌 Auteurs
-- **Ton Nom** – Développeur Fullstack  
+- **AGBEHOBOU Yann Prince Djilan** – Développeur Fullstack  
 - 📧 Contact : yannagbehonou@gmail.com  
