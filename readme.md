@@ -64,6 +64,11 @@ Le frontend peut être hébergé sur des plateformes comme Vercel, Netlify ou un
 
 Pour un exemple de fonctionnement de l'application nous vous conseillons d'utiliser un utilisateur **yann** qui a le mot de passe **1234** que vous avez déjà créer avec voyages.sql et qui dispose du statut touriste comment propriétaire avec lui vous pourrez accéder à accueil.jsx premièrement ou si vous essayez de faire une réservation vous serez directement redirigé vers la page d'inscription où vous pouvez vous connecter par la suite en cliquant sur connexion avec l'utilisateur **yann** qui a les accès **1234** en tant que mot de passe et **yann** en tant que username vous sélectionnez la propriété **propriétaire** et vous accéderez aux **dashboard** où vous pourrez faire **des ajouts de lieu touristiques** et des **ajouts d'annonce** ainsi que voir **vos annonces** et **les lieux touristiques** ajouter en choisissant l'utilisateur yann en tant que touriste vous aurez accès à l'interface profil qui vous permettra de **cliquer sur le logo de profil** et d'avoir **un dashboard** en tant que touriste pour pouvoir voir vos différentes réservations et sur la page profil touriste vous pourrez utiliser l'option réservée pour faire un paiement réel fonctionnel avec lequel je pourrais voir des paiements effectués depuis mon dashboard de stripe en mode développeur en cliquant aussi sur plus d'annonces vous pourrez voir toutes les annonces qui ont été 
 enregistrées.
+- Pour tester le paiement: nous vous conseillons d'utiliser ces données:
+    numéro de compte: 4242 4242 4242 4242 
+    MM/AA : 12/26
+    Code postal : 12345
+    Mais vous pouvez aussi utiliser des données qui respectent les normes banquaires. 
 ---
 - 
 
