@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    display: flex;
+}    
+.slideBar{
+    height: 800px;
+    width: 200px;
+    background-color: aqua;
+}
+.content{
+    width: 800px;
+    background-color: #654b4b;
+}
+.entete{
+    display: flex;
+    justify-content: space-around;
+}
+.entete__article{
+    border: 3px solid black;
+    width: 200px;
+    height: 60px;
+    margin-top: 60px;
+}

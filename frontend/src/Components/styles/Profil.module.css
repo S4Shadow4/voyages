@@ -1,0 +1,131 @@
+.header{
+    height:10vh ;
+    width:100% ;
+    display: flex;
+    justify-content: space-between;
+    background-color: white
+}
+header menu{
+    padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  
+    overflow: hidden;
+    width: 100%;
+  }
+  #h1{
+    margin-top: 17px;
+  }
+.logo{
+    height: 10vh;
+    width: 25%;
+    display: flex; 
+}
+.section2{
+    height: 10vh;
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+.button{
+    height: 5vh;
+    width: 150px;
+    border-radius: 50px;
+}
+
+
+.presentation{
+    height: 80vh;
+    width: 100%;
+    background-image: url("../Assets/femmeAff.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    text-shadow: 1px 1px black;
+}
+.presentation {
+    font-size: 25px;
+}
+.cadre{
+    height:50vh ;
+    width:80% ;
+    justify-content: center; 
+    display: flex;
+}
+
+.texteIntro{
+    font-size: 2em;
+    /* background-color: red; */
+    margin-left: 20%;
+    text-shadow: 10px 10px 50px black;
+}
+#articleIntro{
+    width: 50%;
+    margin-left: 42%;
+}
+h1{
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+p{
+    text-align: center;
+}
+.Formation{
+    height: 55vh;
+    width: 100%;
+    display: flex ;
+    justify-content: space-around;
+}
+.formation_box{
+    height: 55vh;
+    width: 42vh;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.formation_box_img{
+    height: 20vh;
+    width: 35vh;
+   /*  border: 1px solid black; */
+    border-radius: 10px;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+#img{
+    border-radius: 10px;
+}
+.formation_box_text{
+    margin-top: 5%;
+    text-align: center;
+}
+.Formations{
+    height: 50vh;
+    width: 100%;
+    background-image: url(../Assets/classe5.jpg);
+    text-align: center;
+}
+button{
+    height: 5vh;
+    width: 20vh;
+    border-radius: 10px;
+}
+#Formations{
+    color: white;
+    padding-top: 6%;
+}
